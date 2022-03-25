@@ -1,0 +1,35 @@
+# Changelog
+All notable changes will be documented here
+
+## [Unreleased]
+
+
+## [2.0.0] - 2022-03-23
+### Added
+- This changelog
+- Myself to the list of people accepted to the University of Michigan. Another W as usual
+- Popup script
+- "Grid" view 
+- Modal for watching "Grid" videos
+- Ability to change between "List" and "Grid" 
+- "storage" to permissions
+
+### Changed
+- Rename version 0.0.0.1 to 1.0.0 and 0.0.0.2 to 1.0.1
+- UI overhaul
+- Update extension subtitle and description
+- Update promotional material in Chrome store
+- Update copy in Chrome Store
+
+
+## [1.0.1] - 2021-12-13
+### Added
+- Extension to the Chrome Store
+
+### Removed
+- "storage" and "webRequest" from permissions
+
+
+## [1.0.0] - 2021-12-07
+### Added
+- Submitted to Chrome Web Store for review

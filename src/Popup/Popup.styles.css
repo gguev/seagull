@@ -1,0 +1,10 @@
+.popup {
+    height: 100px;
+    width: 250px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn-danger {
+    background-image: linear-gradient(to top right, #DC2430, #7B4397);
+}
+
