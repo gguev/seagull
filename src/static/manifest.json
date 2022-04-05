@@ -28,7 +28,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://*.steampowered.com/app/*/*/"
+        "https://*.steampowered.com/app/*/*/*"
       ],
       "js": ["steamContentScript.js"]
     }
