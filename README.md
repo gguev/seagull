@@ -11,4 +11,4 @@ Seagull is a Chrome extension that adds video game reviews and gameplay videos f
 5. Click `Load Unpacked` 
 6. Find the `seagull` directory and add the `dist` folder
 
-
+Enjoy
