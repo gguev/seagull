@@ -3,6 +3,13 @@ All notable changes will be documented here
 
 ## [Unreleased]
 
+## [2.0.1] - 2022-04-05
+### Added
+- Extra match paramater to Steam URL in manifest.json
+
+
+### Remove
+- Remove changelog from Web Store
 
 ## [2.0.0] - 2022-03-23
 ### Added
